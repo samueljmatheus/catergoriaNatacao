@@ -1,1 +1,1 @@
-# catergoriaNatacao
+# categoriaNatacao
